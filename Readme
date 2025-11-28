@@ -1,0 +1,11 @@
+# Monthly Budget Calculator
+
+### What it does
+By entering you net income after taxes and by filling the basic expenses it show you expenses distribution + remaining balance_for_other categories
+
+### Why I built it
+I wanted to learn Streamlit by practicing with a small app, that is useful_for anyone
+
+### Live demo
+https://your-username-monthly-budget-calculator.streamlit.app  
+(or whatever link you get after deploying)
